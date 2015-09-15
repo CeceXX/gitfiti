@@ -13,7 +13,7 @@ noun : Carefully crafted graffiti in a github commit history calendar
 import datetime
 import math
 import itertools
-import urllib
+import urllib2
 import json
 
 TITLE = '''
